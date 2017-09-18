@@ -1,0 +1,27 @@
+{
+   "defaultTitle": {
+      "description": "Default title to display",
+      "message": "Share page with lknSuite"
+   },
+  "extName": {
+      "description": "Extension name.",
+      "message": "lknSuite Chrome Extension"
+   },
+   "extDesc": {
+      "description": "Extension description",
+      "message": "Quickly share web pages to all of your social networks using the lknSuite Extension. You can publish your updates on Twitter, Facebook, LinkedIn, Google+,Instagram and more with one click (Do not forget to watch the video)"
+   },
+  "sharePage": {
+      "description": "Share page text",
+      "message": "Share page with lknSuite"
+   },
+  "shareSelected": {
+      "description": "Share selected text",
+      "message": "Share selected text with lknSuite"
+   },
+  "shareImage": {
+      "description": "Share image text",
+      "message": "Share image with lknSuite"
+   }
+   
+}
